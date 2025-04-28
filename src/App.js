@@ -284,6 +284,11 @@ export default function App() {
           alt="Screenshot of HTML/CSS Project"
           className="max-w-full h-auto mx-auto rounded-lg shadow-md"
         />
+
+            <p className="text-gray-300 mb-4">
+          You can check out one of the projects I have worked for a client in the past here:<br />
+          👉 <a href="https://twowaymw.org/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">https://twoway-prototype.vercel.app/</a>
+        </p>
       </section>
     </div>
   );
